@@ -47,6 +47,8 @@ color: #FFF;
 main{
     margin-top: 65px;
 }
+
+/* ----------------our feature flower section------------ */
 .featured-flower-section{
     padding: 20px 240px 20px 240px;
 }
@@ -102,6 +104,25 @@ margin-bottom: 60px;
     padding:45px 35px 0px 35px ;
     border-radius: 300px 300px 0px 0px;
 
- 
+}
+/* -------------------service section------------------- */
+.service-section{
+    border-radius: 8px;
+    background: rgba(39, 39, 39, 0.05);
+    margin:80px 180px ;
+    padding: 65px 60px;
+}
 
+.service-section{
+    display: flex;
+    justify-content: center;
+    gap: 80px;
+    
+}
+.service-list{
+    text-align: center;
+    
+}
+.service-list img{
+    width: 75px;
 }
