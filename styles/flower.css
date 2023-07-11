@@ -126,3 +126,33 @@ margin-bottom: 60px;
 .service-list img{
     width: 75px;
 }
+
+/* -----------------------------Hot deal section------------------- */
+.Hot-deal-section{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 100px;
+    background-color: #E554730D;
+    margin: 70px 0px;
+    padding: 70px 20px;
+}
+.Hot-deal-section .hot-deal-banner{
+    text-align: center;
+}
+.Hot-deal-section img{
+    width: 255px;
+}
+.hot-deal-title{
+color: #272727;
+font-size: 30px;
+font-weight: 900;
+}
+.hot-deal-title .off{
+    color: #E55473;
+}
+.hot-deal-description{
+color: rgba(39, 39, 39, 0.60);
+font-size: 16px;
+font-weight: 400;
+}
