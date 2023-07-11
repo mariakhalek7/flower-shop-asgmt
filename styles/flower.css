@@ -222,3 +222,32 @@ margin:10px;
 border: none;
 
 }
+
+/* ----------------------------footer ----------------- */
+footer{
+background-color: #111010;
+text-align: center;
+padding: 60px;
+margin-top: 100px;
+
+}
+.footer-title{
+color: #E55473;
+font-size: 40px;
+font-weight: 900;
+margin-bottom: 10px;
+}
+.footer-title .shop{
+    color: #FFF;
+}
+.footer-description{
+color: rgba(255, 255, 255, 0.90);
+font-size: 16px;
+font-weight: 400;
+}
+.footer-copyright{
+color: rgba(255, 255, 255, 0.40);
+font-family: Lato;
+font-size: 15px;
+font-weight: 400;
+}
